@@ -13,7 +13,7 @@ As principais questões que buscamos responder são:
 Iniciamos nossa análise observando a distribuição do faturamento entre os produtos. O gráfico a seguir apresenta a participação percentual acumulada do faturamento:
 
 <p align="center">
-  <img src="graficos/av_percent_fat_produto.png" alt="GRÁFICO DE DISTRIBUIÇÃO PERCENTUAL DO FATURAMENTO" width="500">
+  <img src="graficos/av_percent_fat_produto.png" alt="GRÁFICO DE DISTRIBUIÇÃO PERCENTUAL DO FATURAMENTO" width="700">
 </p>
 
 A partir desse gráfico, percebemos que uma pequena parcela dos produtos representa a maior parte do faturamento, um padrão comum em e-commerces.
