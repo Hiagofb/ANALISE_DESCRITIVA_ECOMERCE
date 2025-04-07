@@ -21,21 +21,27 @@ A partir desse gráfico, percebemos que uma pequena parcela dos produtos represe
 ### Avaliação dos Produtos com Ênfase no Faturamento
 Após entendermos o faturamento, analisamos como ele se relaciona com a avaliação dos produtos. Para isso, observamos a média ponderada das avaliações em relação ao faturamento total de cada produto.
 
-![GRÁFICO DE AVALIAÇÃO X FATURAMENTO](graficos/av_fat_produto.png)
+<p align="center">
+  <img src="graficos/av_fat_produto.png" alt="GRÁFICO DE AVALIAÇÃO X FATURAMENTO" width="900">
+</p>
 
 Os dados mostram que três dos cinco produtos que mais faturam possuem avaliações abaixo de 3,5. Além disso, 70% do faturamento está associado a produtos com avaliação inferior a 3,5. Esse padrão levanta a questão: será que a alta demanda de determinados produtos supera a insatisfação dos clientes?
 
 ## Avaliação dos Produtos com Ênfase na Quantidade Vendida
 Para aprofundar nossa análise, investigamos a relação entre avaliação e quantidade vendida. O gráfico abaixo destaca os cinco produtos mais vendidos, comparando suas avaliações com as quantidades comercializadas:
 
-![GRÁFICO DE AVALIAÇÃO X QUANTIDADE VENDIDA](graficos/av_qtd_vendas_produto.png)
+<p align="center">
+  <img src="graficos/av_qtd_vendas_produto.png" alt="GRÁFICO DE AVALIAÇÃO X QUANTIDADE VENDIDA" width="900">
+</p>
 
 Aqui, encontramos um padrão semelhante ao observado na análise de faturamento: os três produtos mais vendidos também possuem avaliações abaixo de 3,5. Além disso, o produto com maior faturamento é também o mais vendido e tem uma avaliação média de apenas 2.
 
 ## Avaliação e Faturamento por Categoria
 Por fim, agrupamos os produtos por categoria para entender seu impacto no e-commerce. Identificamos quatro categorias principais e analisamos sua posição tanto em faturamento quanto em avaliação.
 
-![GRÁFICO DE FATURAMENTO E AVALIAÇÃO POR CATEGORIA](graficos/av_fat_categoria.png)
+<p align="center">
+  <img src="graficos/av_fat_categoria.png" alt="GRÁFICO DE FATURAMENTO E AVALIAÇÃO POR CATEGORIA" width="900">
+</p>
 
 Os resultados mostram que a categoria Electronics, apesar de ser a que mais fatura, está em penúltimo lugar no ranking de avaliações (3ª de 4). Esse dado sugere que produtos eletrônicos têm alta demanda, mas podem não satisfazer totalmente os consumidores.
 
