@@ -33,3 +33,15 @@ Os resultados mostram que a categoria Electronics, apesar de ser a que mais fatu
 A análise revelou que os produtos mais vendidos e que mais faturam não necessariamente possuem boas avaliações. Além disso, identificamos que uma grande parte do faturamento do e-commerce vem de produtos com avaliações abaixo de 3,5, indicando que a demanda pode estar impulsionada por outros fatores, como preço ou necessidade do consumidor.
 Além disso, ao analisar as categorias, percebemos que a Electronics, a líder em faturamento, tem uma avaliação relativamente baixa, o que pode ser um ponto de atenção para a gestão do e-commerce.
 Esses insights podem ser úteis para estratégias futuras, como melhorar a qualidade dos produtos mais vendidos ou investir em comunicação e suporte para categorias que apresentam discrepâncias entre faturamento e satisfação dos clientes.
+
+---
+### 🚀 Tecnologias & Ferramentas Utilizadas:
+
+<table>
+  <tr>
+    <td align="center"><img src="https://icones.pro/wp-content/uploads/2021/05/icone-base-donnees-orange.png" width="40" height="40"/><br>SQL</td>
+    <td align="center"><img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="45"/><br>SQLAlchemy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/><br>Python</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="40" height="35"/><br>Matplotlib</td>
+</table>
