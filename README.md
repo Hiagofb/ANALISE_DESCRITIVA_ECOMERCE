@@ -61,6 +61,7 @@ A análise revelou inconsistências entre a percepção de qualidade dos produto
 ---
 <h3>🔗 Acesse o Projeto Completo</h3>
 Clique no botão abaixo para acessar o projeto completo com todos os códigos e gráficos utilizados na análise:
+
 <a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE/blob/main/ANALISE_DESCRITIVA.ipynb" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
