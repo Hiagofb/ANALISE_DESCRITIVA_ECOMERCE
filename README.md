@@ -1,57 +1,82 @@
 ## Análise de Faturamento e Avaliação dos Produtos no E-commerce
 
-### Introdução
+### Objetivo da Analise
 
-Este projeto tem como objetivo analisar o desempenho de produtos em um e-commerce, utilizando dados disponíveis no site Kaggle.com. O foco é entender a relação entre faturamento, avaliação dos produtos e quantidade vendida, a fim de identificar padrões e insights sobre o comportamento dos consumidores.
+Este projeto tem como objetivo analisar a relação entre avaliações de produtos e seu desempenho em vendas em um e-commerce. Utilizando dados extraídos do Kaggle, exploramos padrões e insights sobre como a percepção dos clientes pode estar relacionada ao faturamento e à quantidade vendida.
 As principais questões que buscamos responder são:
-1.	Como está distribuído o faturamento dos produtos?
-2.	Qual a relação entre faturamento e avaliação dos produtos?
-3.	Existe relação entre avaliação e quantidade vendida?
-4.	Como as categorias de produtos se comportam em termos de faturamento e avaliação?
+1.	Qual a distribuição percentual do faturamento por avaliação média?
+2.	Os produtos que mais faturam possuem boas avaliações?
+3.	Os produtos mais vendidos possuem boas avaliações?
+4.	Como a avaliação média das categorias se relaciona com seu faturamento?
 
-## Análise de Faturamento
-Iniciamos nossa análise observando a distribuição do faturamento entre os produtos. O gráfico a seguir apresenta a participação percentual acumulada do faturamento:
+
+## Distribuição Percentual Acumulada do Faturamento por Avaliação Média
+Muitas vezes, espera-se que os produtos mais bem avaliados sejam também os mais lucrativos. Para entender se essa lógica se confirma, exploramos como o faturamento total se distribui de forma acumulada ao longo das avaliações médias dos produtos.
 
 <p align="center">
   <img src="graficos/av_percent_fat_produto.png" alt="GRÁFICO DE DISTRIBUIÇÃO PERCENTUAL DO FATURAMENTO" width="600">
 </p>
 
-A partir desse gráfico, percebemos que uma pequena parcela dos produtos representa a maior parte do faturamento, um padrão comum em e-commerces.
+Descobrimos que 70% do faturamento total vem de produtos com avaliação média de até 3,5. Isso revela um cenário em que o desempenho de vendas não está diretamente ligado à satisfação do cliente. Ou seja, muitos consumidores continuam comprando produtos com avaliações medianas ou até ruins, possivelmente influenciados por fatores como preço acessível, necessidade ou falta de opções.
 
 ### Avaliação dos Produtos com Ênfase no Faturamento
-Após entendermos o faturamento, analisamos como ele se relaciona com a avaliação dos produtos. Para isso, observamos a média ponderada das avaliações em relação ao faturamento total de cada produto.
+Para aprofundar a análise anterior, foi necessário observar os produtos que mais geram receita, buscando entender se esses produtos são também bem avaliados pelos consumidores.
 
 <p align="center">
-  <img src="graficos/av_fat_produto.png" alt="GRÁFICO DE AVALIAÇÃO X FATURAMENTO" width="900">
+  <img src="graficos/av_fat_produto.png" alt="GRÁFICO DE AVALIAÇÃO X FATURAMENTO" width="600">
 </p>
 
-Os dados mostram que três dos cinco produtos que mais faturam possuem avaliações abaixo de 3,5. Além disso, 70% do faturamento está associado a produtos com avaliação inferior a 3,5. Esse padrão levanta a questão: será que a alta demanda de determinados produtos supera a insatisfação dos clientes?
+Foi identificado que três dos cinco produtos que mais faturam possuem nota média abaixo de 3,5. Além disso, o produto que mais fatura tem uma nota média de apenas 2, o que reforça que boas vendas não significam necessariamente boa satisfação do cliente.
 
 ## Avaliação dos Produtos com Ênfase na Quantidade Vendida
-Para aprofundar nossa análise, investigamos a relação entre avaliação e quantidade vendida. O gráfico abaixo destaca os cinco produtos mais vendidos, comparando suas avaliações com as quantidades comercializadas:
+Será que os produtos mais populares, em termos de volume de vendas, são também os mais bem avaliados? Nesta etapa, relacionamos a quantidade de vendas com as notas médias recebidas
 
 <p align="center">
-  <img src="graficos/av_qtd_vendas_produto.png" alt="GRÁFICO DE AVALIAÇÃO X QUANTIDADE VENDIDA" width="900">
+  <img src="graficos/av_qtd_vendas_produto.png" alt="GRÁFICO DE AVALIAÇÃO X QUANTIDADE VENDIDA" width="600">
 </p>
 
-Aqui, encontramos um padrão semelhante ao observado na análise de faturamento: os três produtos mais vendidos também possuem avaliações abaixo de 3,5. Além disso, o produto com maior faturamento é também o mais vendido e tem uma avaliação média de apenas 2.
+O produto mais vendido também é o que mais fatura e tem uma avaliação média de apenas 2. Além disso, três dos cinco produtos com maior faturamento também estão entre os mais vendidos e possuem avaliação abaixo de 3,5. Esses dados indicam que a popularidade não está diretamente associada à qualidade percebida.
 
 ## Avaliação e Faturamento por Categoria
-Por fim, agrupamos os produtos por categoria para entender seu impacto no e-commerce. Identificamos quatro categorias principais e analisamos sua posição tanto em faturamento quanto em avaliação.
+Expandindo a visão para categorias de produtos, buscamos entender se esse padrão de "muito lucro, pouca satisfação" também se manifesta em níveis mais amplos.
 
 <p align="center">
   <img src="graficos/av_fat_categoria.png" alt="GRÁFICO DE FATURAMENTO E AVALIAÇÃO POR CATEGORIA" width="900">
 </p>
 
-Os resultados mostram que a categoria Electronics, apesar de ser a que mais fatura, está em penúltimo lugar no ranking de avaliações (3ª de 4). Esse dado sugere que produtos eletrônicos têm alta demanda, mas podem não satisfazer totalmente os consumidores.
+Os resultados mostram que a categoria Electronics, apesar de ser a que mais fatura, está em penúltimo lugar no ranking de avaliações (3ª de 4). Isso sugere que, mesmo com avaliações negativas, a demanda por eletrônicos continua alta, talvez por necessidade, tecnologia ou atratividade de preços.
 
-## Conclusão
-A análise revelou que os produtos mais vendidos e que mais faturam não necessariamente possuem boas avaliações. Além disso, identificamos que uma grande parte do faturamento do e-commerce vem de produtos com avaliações abaixo de 3,5, indicando que a demanda pode estar impulsionada por outros fatores, como preço ou necessidade do consumidor.
-Além disso, ao analisar as categorias, percebemos que a Electronics, a líder em faturamento, tem uma avaliação relativamente baixa, o que pode ser um ponto de atenção para a gestão do e-commerce.
-Esses insights podem ser úteis para estratégias futuras, como melhorar a qualidade dos produtos mais vendidos ou investir em comunicação e suporte para categorias que apresentam discrepâncias entre faturamento e satisfação dos clientes.
+## Conclusão Geral das Análises
+A análise revelou inconsistências entre a percepção de qualidade dos produtos e seu desempenho comercial. Produtos e categorias mal avaliados continuam liderando em vendas, o que pode estar relacionado a:
 
+- Necessidade do consumidor.
+- Baixa concorrência.
+- Estratégias de marketing e descontos.
+
+## Futuros Passos Recomendados
+
+1. Investigar as causas da insatisfação nos produtos mais vendidos — especialmente na categoria Electronics.
+2. Analisar o impacto de campanhas de marketing e descontos sobre os produtos com avaliações baixas.
+3. Monitorar a fidelização dos clientes e a taxa de recompra, cruzando com a média de avaliação dos produtos adquiridos.
 ---
-### 🚀 Tecnologias & Ferramentas Utilizadas:
+### Acesse o Projeto Completo
+Clique no botão abaixo para acessar o projeto completo com todos os códigos e gráficos utilizados na análise:
+<h3>🔗 Acesse o Projeto Completo</h3>
+
+<a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE/blob/main/ANALISE_DESCRITIVA.ipynb" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #2ea44f;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  font-family: sans-serif;
+">
+📊 Ver Análise Completa
+</a>
+---
+### Tecnologias & Ferramentas Utilizadas:
 
 <table>
   <tr>
