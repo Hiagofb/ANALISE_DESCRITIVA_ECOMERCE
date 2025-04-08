@@ -102,8 +102,6 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
 
 ---
 
-<h3>🔙 Voltar para o Portfólio</h3>
-
 <a href="https://github.com/Hiagofb" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
@@ -114,6 +112,6 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
   font-weight: bold;
   font-family: sans-serif;
 ">
-🏠 Voltar para o Portfólio
+<h3>🔙 Voltar para o Portfólio</h3>
 </a>
 
