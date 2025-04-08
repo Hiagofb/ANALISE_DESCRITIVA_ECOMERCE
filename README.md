@@ -59,10 +59,8 @@ A análise revelou inconsistências entre a percepção de qualidade dos produto
 2. Analisar o impacto de campanhas de marketing e descontos sobre os produtos com avaliações baixas.
 3. Monitorar a fidelização dos clientes e a taxa de recompra, cruzando com a média de avaliação dos produtos adquiridos.
 ---
-### Acesse o Projeto Completo
-Clique no botão abaixo para acessar o projeto completo com todos os códigos e gráficos utilizados na análise:
 <h3>🔗 Acesse o Projeto Completo</h3>
-
+Clique no botão abaixo para acessar o projeto completo com todos os códigos e gráficos utilizados na análise:
 <a href="https://github.com/Hiagofb/ANALISE_DESCRITIVA_ECOMERCE/blob/main/ANALISE_DESCRITIVA.ipynb" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
