@@ -41,7 +41,7 @@ O produto mais vendido também é o que mais fatura e tem uma avaliação média
 Expandindo a visão para categorias de produtos, buscamos entender se esse padrão de "muito lucro, pouca satisfação" também se manifesta em níveis mais amplos.
 
 <p align="center">
-  <img src="graficos/av_fat_categoria.png" alt="GRÁFICO DE FATURAMENTO E AVALIAÇÃO POR CATEGORIA" width="900">
+  <img src="graficos/av_fat_categoria.png" alt="GRÁFICO DE FATURAMENTO E AVALIAÇÃO POR CATEGORIA" width="600">
 </p>
 
 Os resultados mostram que a categoria Electronics, apesar de ser a que mais fatura, está em penúltimo lugar no ranking de avaliações (3ª de 4). Isso sugere que, mesmo com avaliações negativas, a demanda por eletrônicos continua alta, talvez por necessidade, tecnologia ou atratividade de preços.
@@ -73,6 +73,7 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
 ">
 📊 Ver Análise Completa
 </a>
+
 ---
 ### Tecnologias & Ferramentas Utilizadas:
 
