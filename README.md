@@ -84,7 +84,7 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
     <td align="center"><img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="45"/><br>SQLAlchemy</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/><br>Python</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas</td>
-    <td align="center"><img src="https://pypi-camo.freetls.fastly.net/00290f86d71911993c4d2c6ac743537a235c2692/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6e756d70792f6e756d70792f6d61696e2f6272616e64696e672f6c6f676f2f7072696d6172792f6e756d70796c6f676f2e737667" width="40" height="35"/><br>NumPy</td>
+    <td align="center"><img src="https://neuraspike.com/wp-content/uploads/2020/11/thumbnail_numpy_tutorial_logo-neuraspike.png.png" width="40" height="35"/><br>NumPy</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="40" height="35"/><br>Matplotlib</td>
 </table>
 
