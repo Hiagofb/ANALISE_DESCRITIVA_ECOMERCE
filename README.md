@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo analisar a relação entre avaliações de produtos e seu desempenho em vendas em um e-commerce. Utilizando dados extraídos do Kaggle, exploramos padrões e insights sobre como a percepção dos clientes pode estar relacionada ao faturamento e à quantidade vendida.
 As principais questões que buscamos responder são:
-1.	Qual a distribuição percentual do faturamento por avaliação média?
+1.	Qual a distribuição percentual acumulada do faturamento por avaliação média?
 2.	Os produtos que mais faturam possuem boas avaliações?
 3.	Os produtos mais vendidos possuem boas avaliações?
 4.	Como a avaliação média das categorias se relaciona com seu faturamento?
