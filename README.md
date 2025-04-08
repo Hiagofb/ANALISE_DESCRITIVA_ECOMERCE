@@ -89,6 +89,14 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
 
 ---
 
+### 📫 Contato
+<div style="display: inline-block"> 
+  <a href="https://www.linkedin.com/in/hiago-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:hiagof130[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
+
+---
+
 <h3>🔙 Voltar para o Portfólio</h3>
 
 <a href="https://github.com/Hiagofb" target="_blank" style="
@@ -104,10 +112,3 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
 🏠 Voltar para o Portfólio
 </a>
 
----
-
-### 📫 Contato
-<div style="display: inline-block"> 
-  <a href="https://www.linkedin.com/in/hiago-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hiagof130[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
