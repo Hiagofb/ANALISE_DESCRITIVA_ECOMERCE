@@ -112,6 +112,6 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
   font-weight: bold;
   font-family: sans-serif;
 ">
-<h3>🔙 Voltar para o Portfólio</h3>
+🔙 Voltar para o Portfólio
 </a>
 
