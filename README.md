@@ -92,8 +92,12 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
 
 ### 📫 Contato
 <div style="display: inline-block"> 
-  <a href="https://www.linkedin.com/in/hiago-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:hiagof130[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/hiago-fernandess/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
+  <a href="mailto:hiago_fernandes[at]ymail.com" target="_blank">
+  <img src="https://img.shields.io/badge/YahooMail-%236200D8?style=for-the-badge&logo=yahoo&logoColor=white" target="_blank">
+</a>
 </div>
 
 ---
