@@ -86,6 +86,7 @@ Clique no botão abaixo para acessar o projeto completo com todos os códigos e 
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><br>Pandas</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" width="40" height="35"/><br>Matplotlib</td>
 </table>
+
 ---
 
 <h3>🔙 Voltar para o Portfólio</h3>
