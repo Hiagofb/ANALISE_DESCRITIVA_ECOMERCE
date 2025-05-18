@@ -1,4 +1,4 @@
-#remova o comentário se quiser enviar o .env (não recomendado)
+
 .env  
-#remova o comentário se quiser enviar o ambiente virtual (também não recomendado)      
+
 .venv/
